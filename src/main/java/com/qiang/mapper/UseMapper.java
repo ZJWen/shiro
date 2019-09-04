@@ -14,4 +14,6 @@ import org.springframework.stereotype.Repository;
 public interface UseMapper {
 
     User selByName(String username);
+
+
 }
